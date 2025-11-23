@@ -1,4 +1,4 @@
-# The triptych of LLM Training: Pre-Training, Fine-Tuning, and RLHF (2h)
+# The triptych of LLM Training: Pre-Training, Fine-Tuning, and RLHF [2h]
 Last update: 2025-11-23
 
 1. [LLM Visualization](https://bbycroft.net/llm)

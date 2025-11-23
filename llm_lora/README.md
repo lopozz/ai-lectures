@@ -1,4 +1,4 @@
-# Efficient Fine-tuning with LoRA for RAG Hallucination Mitigation
+# Efficient Fine-tuning with LoRA for RAG Hallucination Mitigation [2h]
 Last update: 2025-11-23
 1. [Learning representations by back-propagating errors](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
 2. [The Llama 3 Herd of Models](https://arxiv.org/pdf/2407.21783)

@@ -12,4 +12,5 @@ wheels/
 # Others
 .ruff_cache
 unsloth_compiled_cache
-llama-3.2-RAG/
+data/
+checkpoints

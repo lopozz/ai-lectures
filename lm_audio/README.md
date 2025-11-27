@@ -1,6 +1,6 @@
 # Audio Language Model Architectures [2h]
 
-Last update: 2025-11-25
+Last update: 2025-11-27
 
 1. [Text to Speech Fine-tuning Tutorial](https://www.youtube.com/watch?v=5-Dk3ooxn2Q&t=2414s)
 2. [Serve a Text to Speech Model with vLLM](https://www.youtube.com/watch?v=I2F9o8totrg&t=68s)
@@ -11,7 +11,7 @@ Last update: 2025-11-25
 7. [Moshi: a speech-text foundation model for real-time dialogue](https://arxiv.org/pdf/2410.00037v2)
 8. [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://arxiv.org/pdf/2301.02111)
 9. [Phonetics and Speech Feature Extraction](https://web.stanford.edu/~jurafsky/slp3/14.pdf)
-10. [Text-to-Speech](https://web.stanford.edu/~jurafsky/slp3/16.pdf)
+10. [Speech and Language Processing - CH 16 -Text-to-Speech](https://web.stanford.edu/~jurafsky/slp3/16.pdf)
 11. [Fine-tune Orpheus or Sesame CSM-1B with Unsloth (Voice Cloning Tutorial)](https://www.youtube.com/watch?v=3iqvBEGS2So&t=15s)
 12. [AudioLM: a Language Modeling Approach to Audio Generation](https://arxiv.org/pdf/2209.03143)
 13. [Autoregressive Image Generation using Residual Quantization](https://arxiv.org/pdf/2203.01941)

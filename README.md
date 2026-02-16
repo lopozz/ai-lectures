@@ -1,4 +1,4 @@
-This repository contains multiple independent lectures, all having data science as common denominator. 
+This repository contains multiple independent lectures, all having artificial intelligence as common denominator. 
 
 Each lecture includes a presentation stored as a `whiteboard.excalidraw` file. To view it, open the file in the free online editor at https://excalidraw.com/ and drag-and-drop the `.excalidraw` file into the canvas.
 

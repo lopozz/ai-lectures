@@ -15,3 +15,4 @@ Last update: 2025-11-23
 13. [LLM Visualization](https://bbycroft.net/llm)
 14. [Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL](https://huggingface.co/blog/unsloth-trl)
 15. [Finetune Mistral 14x faster](https://unsloth.ai/blog/mistral-benchmark)
+16. [Why Language Models Hallucinate](https://arxiv.org/pdf/2509.04664)

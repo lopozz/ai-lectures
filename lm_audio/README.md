@@ -1,6 +1,6 @@
 # Audio Language Model Architectures [2h]
 
-Last update: 2025-11-27
+Last update: 2026-04-15
 
 1. [Text to Speech Fine-tuning Tutorial](https://www.youtube.com/watch?v=5-Dk3ooxn2Q&t=2414s)
 2. [Serve a Text to Speech Model with vLLM](https://www.youtube.com/watch?v=I2F9o8totrg&t=68s)
@@ -20,5 +20,7 @@ Last update: 2025-11-27
 16. [Audio Language Models - Neil Zeghidour (Moshi)](https://www.youtube.com/watch?v=Zjpl84KCTvw)
 17. [High Fidelity Neural Audio Compression](https://arxiv.org/pdf/2210.13438)
 18. [SNAC: Multi-Scale Neural Audio Codec](https://arxiv.org/pdf/2410.14411v1)
-19. [Towards Human-Sounding TTS](https://canopylabs.ai/model-releases)
-20. [Crossing the uncanny valley of conversational voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
+19. [SNAC-Vocos](https://github.com/hertz-pj/SNAC-Vocos)
+20. [Towards Human-Sounding TTS](https://canopylabs.ai/model-releases)
+21. [Crossing the uncanny valley of conversational voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
+22. [Neural audio codecs: how to get audio into LLMs](https://kyutai.org/codec-explainer)

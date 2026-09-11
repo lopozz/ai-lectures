@@ -26,7 +26,8 @@ Last update: 2026-09-11
 22. [QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks](https://arxiv.org/pdf/2402.04396)
 
 Extras:
+
 23. [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/pdf/2402.17764)
-23. [The myth of 1-bit LLMs | Quantization-Aware Training](https://www.youtube.com/watch?v=WBm0nyDkVYM)
-24. [FP4 All the Way: Fully Quantized Training of LLMs](https://arxiv.org/pdf/2505.19115)
-25. [Training models with only 4 bits | Fully-Quantized Training](https://www.youtube.com/watch?v=-cRedoYETzQ&t=186s)
+24. [The myth of 1-bit LLMs | Quantization-Aware Training](https://www.youtube.com/watch?v=WBm0nyDkVYM)
+25. [FP4 All the Way: Fully Quantized Training of LLMs](https://arxiv.org/pdf/2505.19115)
+26. [Training models with only 4 bits | Fully-Quantized Training](https://www.youtube.com/watch?v=-cRedoYETzQ&t=186s)

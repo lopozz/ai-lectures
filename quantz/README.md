@@ -1,4 +1,4 @@
-# Speech to Text [2h]
+# Quantization [2h]
 
 Last update: 2026-09-11
 

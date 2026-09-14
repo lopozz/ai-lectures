@@ -3,7 +3,7 @@
 Last update: 2026-09-02
 
 - [Phonetics and Speech Feature Extraction - CH 15](https://web.stanford.edu/~jurafsky/slp3/15.pdf)
-- [Speech and Language Processing - CH 16 -Text-to-Speech](https://web.stanford.edu/~jurafsky/slp3/16.pdf)
+- [Speech and Language Processing - CH 16](https://web.stanford.edu/~jurafsky/slp3/16.pdf)
 - [Robust Speech Recognition via Large-Scale Weak Supervision](https://www.youtube.com/watch?v=5-Dk3ooxn2Q&t=2414s)
 - [BigSSL: Exploring the Frontier of Large-Scale Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/pdf/2109.13226)
 - [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)

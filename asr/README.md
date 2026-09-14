@@ -3,6 +3,7 @@
 Last update: 2026-09-02
 
 - [Phonetics and Speech Feature Extraction - CH 15](https://web.stanford.edu/~jurafsky/slp3/15.pdf)
+- [Understanding the Mel Spectrogram](https://medium.com/analytics-vidhya/understanding-the-mel-spectrogram-fca2afa2ce53)
 - [Speech and Language Processing - CH 16](https://web.stanford.edu/~jurafsky/slp3/16.pdf)
 - [Robust Speech Recognition via Large-Scale Weak Supervision](https://www.youtube.com/watch?v=5-Dk3ooxn2Q&t=2414s)
 - [BigSSL: Exploring the Frontier of Large-Scale Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/pdf/2109.13226)
@@ -14,6 +15,7 @@ Last update: 2026-09-02
 - [Distil-Whisper](https://www.youtube.com/watch?v=kI1pA1CADxM)
 - [Distil Whisper: Up & Running](https://www.youtube.com/watch?v=3ZBa6lu02w4&list=PLG2TlHmL0-mOvjIrEqGz_kfLthErbXkle&index=7)
 - [Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/pdf/2211.17192)
+- [Speculative Decoding for 2x Faster Whisper Inference](https://huggingface.co/blog/whisper-speculative-decoding)
 - [turbo model release #2363](https://github.com/openai/whisper/discussions/2363)
 - [SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition](https://arxiv.org/pdf/1904.08779)
 - [Knowledge distillation: A good teacher is patient and consistent](https://arxiv.org/abs/2106.05237)

@@ -1,6 +1,6 @@
 # Speech to Text [2h]
 
-Last update: 2026-09-02
+Last update: 2026-09-14
 
 - [Phonetics and Speech Feature Extraction - CH 15](https://web.stanford.edu/~jurafsky/slp3/15.pdf)
 - [Understanding the Mel Spectrogram](https://medium.com/analytics-vidhya/understanding-the-mel-spectrogram-fca2afa2ce53)

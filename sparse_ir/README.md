@@ -1,0 +1,5 @@
+- [Okapi BM25](https://en.wikipedia.org/wiki/Okapi_BM25)
+- [BM42: Attention-Based Sparse Embeddings for Hybrid Search](https://qdrant.tech/articles/bm42)
+- [SPLADE: Sparse Lexical and Expansion Model for First Stage Ranking](https://arxiv.org/pdf/2107.05720)
+- [SPLADE v2: Sparse Lexical and Expansion Model for Information Retrieval](https://arxiv.org/pdf/2109.10086)
+- [SPLADE-v3: New baselines for SPLADE](https://arxiv.org/pdf/2403.06789)

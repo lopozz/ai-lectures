@@ -12,12 +12,11 @@ Last update: 2026-09-16
 8. [Model Compression](https://dl.acm.org/doi/epdf/10.1145/1150402.1150464)
 9. [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531)
 10. [Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo Labelling](https://arxiv.org/pdf/2311.00430)
-11. [Distil Whisper: Up & Running](https://www.youtube.com/watch?v=3ZBa6lu02w4&list=PLG2TlHmL0-mOvjIrEqGz_kfLthErbXkle&index=7)
-12. [Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/pdf/2211.17192)
-13. [Speculative Decoding for 2x Faster Whisper Inference](https://huggingface.co/blog/whisper-speculative-decoding)
-14. [turbo model release #2363](https://github.com/openai/whisper/discussions/2363)
-15. [SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition](https://arxiv.org/pdf/1904.08779)
-16. [Knowledge distillation: A good teacher is patient and consistent](https://arxiv.org/abs/2106.05237)
+11. [Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/pdf/2211.17192)
+12. [Speculative Decoding for 2x Faster Whisper Inference](https://huggingface.co/blog/whisper-speculative-decoding)
+13. [turbo model release #2363](https://github.com/openai/whisper/discussions/2363)
+14. [SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition](https://arxiv.org/pdf/1904.08779)
+15. [Knowledge distillation: A good teacher is patient and consistent](https://arxiv.org/abs/2106.05237)
 https://www.youtube.com/watch?v=gZPUGje1PCI
 
 

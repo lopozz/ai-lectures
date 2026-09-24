@@ -1,6 +1,6 @@
-# Audio Language Model Architectures [2h]
+# Audio Language Model Architectures [4h]
 
-Last update: 2026-09-23
+Last update: 2026-09-24
 
 ### Part I
 

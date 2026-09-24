@@ -25,13 +25,17 @@ Last update: 2026-09-23
 19. [Streaming Sequence-to-Sequence Learning with Delayed Streams Modeling](https://arxiv.org/pdf/2509.08753)
 20. [Turning Whisper into Real-Time Transcription System](https://aclanthology.org/2023.ijcnlp-demo.3.pdf)
 21. [Can Whisper be used for real-time streaming ASR?](https://www.youtube.com/watch?v=_spinzpEeFM&t=220s)
+22. [Voxtral Realtime](https://arxiv.org/pdf/2602.11298)
+23. [Streaming Requests & Realtime API in vLLM](https://vllm.ai/blog/2026-01-31-streaming-realtime)
 
-Extras: 
+Extras:
 - [Text to Speech Fine-tuning Tutorial](https://www.youtube.com/watch?v=5-Dk3ooxn2Q&t=2414s)
 - [Fine-tune Orpheus or Sesame CSM-1B with Unsloth (Voice Cloning Tutorial)](https://www.youtube.com/watch?v=3iqvBEGS2So&t=15s)
-- [Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models](https://arxiv.org/pdf/2311.07919)
-- [Audio Language Models - Neil Zeghidour (Moshi)](https://www.youtube.com/watch?v=Zjpl84KCTvw)
 
 
 ### Part II
-...
+- [Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models](https://arxiv.org/pdf/2311.07919)
+- [Voxtral](https://arxiv.org/pdf/2507.13264v1)
+
+Extras:
+- [Audio Language Models - Neil Zeghidour (Moshi)](https://www.youtube.com/watch?v=Zjpl84KCTvw)

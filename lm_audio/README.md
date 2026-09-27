@@ -1,6 +1,6 @@
 # Audio Language Model Architectures [4h]
 
-Last update: 2026-09-25
+Last update: 2026-09-27
 
 ### Part I
 
@@ -38,6 +38,7 @@ Extras:
 - [SPIRIT LM: Interleaved Spoken and Written Language Model](https://arxiv.org/pdf/2402.05755)
 - [LFM2 Technical Report](https://arxiv.org/pdf/2511.23404v1)
 - [Moshi: a speech-text foundation model for real-time dialogue](https://arxiv.org/pdf/2410.00037v2)
+- [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing](https://arxiv.org/pdf/2110.13900)
 - [PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models](https://arxiv.org/pdf/2602.06053)
 
 Extras:

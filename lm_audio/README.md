@@ -37,9 +37,13 @@ Extras:
 - [Voxtral](https://arxiv.org/pdf/2507.13264v1)
 - [SPIRIT LM: Interleaved Spoken and Written Language Model](https://arxiv.org/pdf/2402.05755)
 - [LFM2 Technical Report](https://arxiv.org/pdf/2511.23404v1)
+- [Vocos: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis](https://arxiv.org/pdf/2306.00814)
 - [Moshi: a speech-text foundation model for real-time dialogue](https://arxiv.org/pdf/2410.00037v2)
 - [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing](https://arxiv.org/pdf/2110.13900)
 - [PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models](https://arxiv.org/pdf/2602.06053)
+- [Function calling and other API updates](https://openai.com/index/function-calling-and-other-api-updates/)
+- [DuplexSLA: A Full-Duplex Spoken Language Model with Synchronized Speech, Language, and Action](https://arxiv.org/pdf/2605.20755)
+- [Semantic VAD: Low-Latency Voice Activity Detection for Speech Interaction](https://arxiv.org/pdf/2305.12450)
 
 Extras:
 - [Audio Language Models - Neil Zeghidour (Moshi)](https://www.youtube.com/watch?v=Zjpl84KCTvw)

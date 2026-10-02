@@ -2,6 +2,8 @@
 
 Last update: 2026-09-11
 
+### Part I
+
 1. [Quantization | hf](https://huggingface.co/docs/optimum/en/concept_guides/quantization#going-further-how-do-machines-represent-numbers)
 2. [Quantization from the ground up](https://ngrok.com/blog/quantization)
 3. [How LLMs survive in low precision | Quantization Fundamentals](https://www.youtube.com/watch?v=qoQJq5UwV1c)
@@ -25,9 +27,31 @@ Last update: 2026-09-11
 21. [SOTA 2-bit quants-#4773](https://github.com/ggml-org/llama.cpp/pull/4773)
 22. [QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks](https://arxiv.org/pdf/2402.04396)
 
-Extras:
 
-23. [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/pdf/2402.17764)
-24. [The myth of 1-bit LLMs | Quantization-Aware Training](https://www.youtube.com/watch?v=WBm0nyDkVYM)
-25. [FP4 All the Way: Fully Quantized Training of LLMs](https://arxiv.org/pdf/2505.19115)
-26. [Training models with only 4 bits | Fully-Quantized Training](https://www.youtube.com/watch?v=-cRedoYETzQ&t=186s)
+### Part II
+- [The myth of 1-bit LLMs | Quantization-Aware Training](https://www.youtube.com/watch?v=WBm0nyDkVYM)
+- [A Target-Centric Survey of Quantization-Aware Training](https://arxiv.org/pdf/2608.29667v1)
+- [Learning representations by back-propagating errors](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
+- [Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation](https://arxiv.org/pdf/1308.3432)
+- [ParetoQ: Improving Scaling Laws in Extremely Low-bit LLM Quantization](https://arxiv.org/pdf/2502.02631)
+- [BitNet: Scaling 1-bit Transformers for Large Language Models](https://arxiv.org/pdf/2310.11453)
+-  [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/pdf/2402.17764)
+- [1-bit AI Infra: Part 1.1, Fast and Lossless BitNet b1.58 Inference on CPUs](https://arxiv.org/pdf/2410.16144)
+- [BitNet b1.58 2B4T Technical Report](https://arxiv.org/pdf/2504.12285v1)
+- [BitNet a4.8: 4-bit Activations for 1-bit LLMs](https://arxiv.org/pdf/2411.04965)
+- [BitNet v2: Native 4-bit Activations with Hadamard Transformation for 1-bit LLMs](https://arxiv.org/pdf/2504.18415)
+- [Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://arxiv.org/pdf/2502.11880)
+
+- [Mixed Precision Training](https://arxiv.org/pdf/1710.03740)
+- [DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437)
+- [Training models with only 4 bits | Fully-Quantized Training](https://www.youtube.com/watch?v=-cRedoYETzQ&t=186s)
+- [Artificial Intelligence Index Report 2024](https://hai.stanford.edu/assets/files/hai_ai-index-report-2024-smaller2.pdf)
+- [Microscaling Data Formats for Deep Learning](https://arxiv.org/pdf/2310.10537)
+- [QLORA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314)
+- [FP4 All the Way: Fully Quantized Training of LLMs](https://arxiv.org/pdf/2505.19115)
+
+
+- [Compute-Optimal Quantization-Aware Training](https://arxiv.org/pdf/2509.22935v1)
+
+Extras:
+- [BitNet | Demo](https://demo-bitnet-h0h8hcfqeqhrf5gf.canadacentral-01.azurewebsites.net/)

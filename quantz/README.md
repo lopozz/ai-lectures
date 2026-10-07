@@ -1,6 +1,6 @@
 # Quantization [4h]
 
-Last update: 2026-09-11
+Last update: 2026-10-07
 
 ### Part I
 
@@ -56,5 +56,4 @@ Last update: 2026-09-11
 
 Extras:
 - [BitNet | Demo](https://demo-bitnet-h0h8hcfqeqhrf5gf.canadacentral-01.azurewebsites.net/)
-- [QLORA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314)
 - [Compute-Optimal Quantization-Aware Training](https://arxiv.org/pdf/2509.22935v1)

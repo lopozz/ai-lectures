@@ -22,19 +22,12 @@ Last update: 2026-10-13
 - [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/hugging-face-incident-report-aug-2026.pdf)
 - [AI Just Crossed the Terrifying Line - Now What?](https://www.youtube.com/watch?v=ujkD4SxPKOI)
 
+- [System 1 and System 2 Thinking](https://thedecisionlab.com/reference-guide/philosophy/system-1-and-system-2-thinking)
+- [Primitives (Questions)](https://docs.typesafe.ai/primitives)
+- [Introducing System One Models & Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev?trk=article-ssr-frontend-pulse_little-text-block)
+- [Jev’s Architecture Unmasked](https://archerhume.com/posts/jevs-architecture-unmasked)
+- [On Calibration of Modern Neural Networks](https://arxiv.org/pdf/1706.04599)
+- [Kev](https://github.com/jaredpalmer/kev)
 - [Introducing Decision 1.0: Open Decision Foundation Models](https://vllm-sr.ai/blog/decision-models/)
-
-https://www.youtube.com/watch?v=cgIodAktkvI
-
-
-
-15 min	From LLMs to AI Agents	What defines an agent? Autonomy, goals, environments, agent loops
-20 min	Agent Architectures	ReAct, planning, reflection, workflows vs agents
-20 min	Tool Use and Function Calling	Tool selection, structured calls, execution, observation
-20 min	MCP and Agent Connectivity	MCP architecture, tool discovery, client-server interactions
-15 min	Memory and Context Management	Short-term state, long-term memory, retrieval, context engineering
-15 min	Decision-Making in Agents	Specialized decision models, Jev, routing, confidence and escalation
-15 min	Reliability and Agent Evaluation	Guardrails, tool permissions, failure modes, benchmarks
-
 
 https://hermes-agent.nousresearch.com/

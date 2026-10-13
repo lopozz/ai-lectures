@@ -8,6 +8,7 @@ Last update: 2026-10-13
 - [Introduction to Model Context Protocol](https://academy.claude.com/courses/introduction-to-model-context-protocol)
 - [Model Context Protocol: Advanced topics](https://academy.claude.com/courses/model-context-protocol-advanced-topics)
 - [Model Context Protocol (MCP): Understanding security risks and controls](https://www.redhat.com/en/blog/model-context-protocol-mcp-understanding-security-risks-and-controls)
+- [Model Context Protocol (MCP): Security Design Considerations for AI-Driven Automation](https://www.nsa.gov/Portals/75/documents/Cybersecurity/CSI_MCP_SECURITY.pdf)
 - [Building Effective AI Agents: Architecture Patterns and Implementation Frameworks](https://resources.anthropic.com/hubfs/Building%20Effective%20AI%20Agents-%20Architecture%20Patterns%20and%20Implementation%20Frameworks.pdf)
 - [How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)
 - [Benchmarking Single Agent Performance](https://www.langchain.com/blog/react-agent-benchmarking)

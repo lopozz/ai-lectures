@@ -1,4 +1,4 @@
-# Sparse Information Retrieval v2 [2h]
+# Sparse Information Retrieval v2 [1.5h]
 
 Last update: 2026-10-09
 

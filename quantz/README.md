@@ -1,8 +1,8 @@
-# Quantization [4h]
+# Quantization
 
 Last update: 2026-10-14
 
-### Part I
+### Part I [1.5h]
 
 1. [Quantization | hf](https://huggingface.co/docs/optimum/en/concept_guides/quantization#going-further-how-do-machines-represent-numbers)
 2. [Quantization from the ground up](https://ngrok.com/blog/quantization)
@@ -28,7 +28,7 @@ Last update: 2026-10-14
 22. [QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks](https://arxiv.org/pdf/2402.04396)
 
 
-### Part II
+### Part II [1h]
 1. [The myth of 1-bit LLMs | Quantization-Aware Training](https://www.youtube.com/watch?v=WBm0nyDkVYM)
 2. [Learning representations by back-propagating errors](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
 3. [Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation](https://arxiv.org/pdf/1308.3432)

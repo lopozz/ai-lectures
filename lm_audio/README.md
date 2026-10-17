@@ -1,8 +1,8 @@
-# Audio Language Model Architectures [4h]
+# Audio Language Model Architectures
 
 Last update: 2026-09-30
 
-### Part I
+### Part I [1.5h]
 
 1. [Text-to-Speech | Speech and Language Processing. Daniel Jurafsky & James H. Marti](https://web.stanford.edu/~jurafsky/slp3/17.pdf)
 2. [StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models](https://arxiv.org/pdf/2306.07691)

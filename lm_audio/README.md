@@ -32,7 +32,7 @@ Extras:
 - [Fine-tune Orpheus or Sesame CSM-1B with Unsloth (Voice Cloning Tutorial)](https://www.youtube.com/watch?v=3iqvBEGS2So&t=15s)
 
 
-### Part II
+### Part II [1.5h]
 1. [Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models](https://arxiv.org/pdf/2311.07919)
 2. [Voxtral](https://arxiv.org/pdf/2507.13264v1)
 3. [SPIRIT LM: Interleaved Spoken and Written Language Model](https://arxiv.org/pdf/2402.05755)

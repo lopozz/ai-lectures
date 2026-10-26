@@ -85,6 +85,9 @@ def main():
     # create a PyTorch optimizer
     optimizer = torch.optim.AdamW(model.parameters(), lr=args.lr)
 
+    # generation starts from a single token 0
+    context = torch.zeros((1, 1), dtype=torch.long, device=args.device)
+
     start = time.time()
 
     for iter in range(args.max_iters):
@@ -98,9 +101,15 @@ def main():
                 args.batch_size,
                 args.device,
             )  # estimate_loss()
+            print('\n\n' + '=' * 80)
             print(
-                f"step {iter}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}"
+                f"\n\nStep {iter}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}"
             )
+            model.eval()
+            with torch.no_grad():
+                sample = model.generate(context, max_new_tokens=500)
+            model.train()
+            print(enc.decode(sample[0].tolist()))
 
         # sample a batch of data
         xb, yb = get_batch(train_data, args.block_size, args.batch_size, args.device)
@@ -110,10 +119,6 @@ def main():
         optimizer.zero_grad(set_to_none=True)
         loss.backward()
         optimizer.step()
-
-    # generate from the model
-    context = torch.zeros((1, 1), dtype=torch.long, device=args.device)
-    print(enc.decode(model.generate(context, max_new_tokens=500)[0].tolist()))
 
     end = time.time()
     print(f"Training took {end - start}")

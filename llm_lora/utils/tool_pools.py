@@ -1,0 +1,112 @@
+# Slot values, from many domains. Lowercase, no punctuation, no leading articles.
+# TEST_POOLS and TRAIN_POOLS must stay disjoint (checked by the generator).
+# The names used as examples in tools.md belong to the training pools.
+
+# fmt: off
+TEST_POOLS = {
+    "collections": [
+        "deep learning", "vegan recipes", "world war two", "personal finance", "jazz piano",
+        "marathon training", "organic chemistry", "ancient egypt", "web development", "stock investing",
+        "photography tips", "quantum physics", "french language", "home repair", "modern art",
+        "climate science", "yoga routines", "rust programming", "ancient greece", "coffee brewing",
+        "music theory", "startup advice", "linear algebra", "gardening", "space exploration",
+        "baking basics", "chess endgames", "public speaking", "neuroscience", "cycling skills",
+        "medieval europe", "data engineering", "wine tasting", "electronics projects", "film history",
+        "nutrition science", "spanish lessons", "woodworking", "economics 101", "computer vision",
+    ],
+    "videos": [
+        "transformers from scratch", "how vaccines work", "making fresh pasta", "understanding inflation",
+        "blues guitar basics", "interval training explained", "how the heart pumps blood", "fall of constantinople",
+        "building a react app", "index funds for beginners", "night sky photography", "what is entanglement",
+        "french verbs made easy", "fixing a leaky faucet", "impressionism explained", "how glaciers melt",
+        "morning stretch routine", "ownership in rust", "pyramids of giza", "perfect espresso at home",
+        "reading sheet music", "raising seed funding", "eigenvalues visualized", "growing tomatoes",
+        "mars rover missions", "croissant lab", "knight forks and pins", "stage fright tips",
+        "how neurons fire", "bike gear shifting", "feudal japan overview", "streaming data pipelines",
+        "how wine ages", "soldering for beginners", "french new wave", "protein and muscle",
+        "spanish for travel", "dovetail joints", "supply and demand", "image segmentation",
+    ],
+    "notes": [
+        "gradient clipping", "dough fermentation", "mortgage interest", "pentatonic scale", "vo2 max",
+        "covalent bonds", "nile flooding", "rest apis", "dividend yield", "long exposure",
+        "bell inequality", "past participle", "load bearing walls", "cubism", "ocean currents",
+        "sleep cycles", "borrow checker", "cold brew ratio", "chord progressions", "burn rate",
+        "determinants", "companion planting", "orbital mechanics", "whisking eggs", "opening principles",
+        "breathing technique", "neural plasticity", "cadence", "samurai code", "batch processing",
+        "tannins", "voltage dividers", "amino acids", "verb conjugation", "mortise and tenon",
+        "opportunity cost", "edge detection", "tidal forces", "carb loading", "stage presence",
+    ],
+    "queries": [
+        "inflation", "tomato sauce", "immune system", "jazz scales", "interest rates",
+        "muscle recovery", "roman empire", "python decorators", "cold war", "photosynthesis",
+        "tax brackets", "stretching", "espresso", "weight decay", "renaissance",
+        "retirement savings", "dark matter", "irregular verbs", "soldering", "volcanoes",
+        "bond prices", "sprint intervals", "gothic architecture", "sql joins", "soil health",
+        "dynamic programming", "meditation", "tennis serve", "cell division", "chord inversions",
+        "trade deficit", "wood finishing", "ice ages", "fermented foods", "game theory",
+        "image classification", "pythagorean theorem", "vitamin d", "space telescopes", "startup valuation",
+    ],
+}
+# fmt: on
+
+# fmt: off
+TRAIN_POOLS = {
+    "collections": [
+        "roman history", "guitar lessons", "italian cooking", "fine tuning", "speech models",
+        "astronomy", "chess openings", "old tests", "machine translation", "reinforcement learning",
+        "bread baking", "travel photography", "world geography", "stoicism", "classical music",
+        "bird watching", "personal productivity", "real estate", "solar energy", "mobile development",
+        "rock climbing", "tax planning", "renaissance art", "cell biology", "thermodynamics",
+        "cloud computing", "graphic design", "mindfulness", "running form", "cheese making",
+        "jazz history", "cryptography", "game design", "urban planning", "ocean biology",
+        "linguistics", "philosophy of mind", "drawing basics", "kubernetes", "probability theory",
+        "sports nutrition", "keto diet", "ceramics", "home brewing", "volcano science",
+        "behavioral economics", "interior design", "drone flying", "robotics", "tennis technique",
+        "calligraphy", "podcasting", "material science", "mythology", "poker strategy",
+        "vocal training", "sleep science", "3d printing", "minimalism", "database design",
+    ],
+    "videos": [
+        "lora explained", "whisper paper review", "black holes explained", "sourdough bread at home", "how gps works",
+        "how batteries work", "introduction to kubernetes", "history of the internet", "making sushi at home", "beginner chess strategy",
+        "how airplanes fly", "understanding bitcoin", "intro to statistics", "painting with watercolors", "how mrna works",
+        "roman republic explained", "learning piano fast", "how do tides work", "deep dive into sql", "mastering time management",
+        "camera settings explained", "cell division visualized", "how to meditate", "mixing cocktails", "gradient descent animated",
+        "speed reading tips", "learn to juggle", "how nuclear power works", "history of jazz", "sleep and memory",
+        "python for beginners", "home espresso setup", "standing desk review", "how rockets launch", "rubiks cube solution",
+        "mediterranean diet basics", "climate models explained", "building a podcast", "introduction to cryptography", "tennis backhand tips",
+        "understanding mortgages", "how bridges stay up", "sketching for beginners", "physics of sound", "vim crash course",
+        "plant based protein", "how search engines work", "learning to swim", "ancient mythology retold", "bash scripting basics",
+        "neural nets from scratch", "ceramics wheel throwing", "budgeting for students", "how earthquakes happen", "typography fundamentals",
+        "kayak safety", "how antibiotics work", "fermentation at home", "linear regression visualized", "pitch deck basics",
+    ],
+    "notes": [
+        "compound interest", "kv cache", "punic wars", "attention", "dough hydration",
+        "rank", "beam search", "learning rate warmup", "dropout", "quantization",
+        "tokenization", "positional encoding", "supply chains", "black body radiation", "inflation hedging",
+        "sourdough starter", "circle of fifths", "plate tectonics", "enzyme kinetics", "rule of thirds",
+        "loss aversion", "git branching", "hash tables", "binary search", "supply elasticity",
+        "golden ratio", "cognitive bias", "central limit theorem", "bayes rule", "lactic acid",
+        "rem sleep", "ohms law", "entropy", "tempo markings", "color theory",
+        "dollar cost averaging", "vanishing gradients", "batch normalization", "overfitting", "transfer learning",
+        "temperature sampling", "gps triangulation", "mitosis", "newtons laws", "doppler effect",
+        "reverse proxy", "recursion", "big o notation", "carbon cycle", "gluten development",
+        "key signatures", "fibonacci sequence", "habit loops", "pomodoro method", "stoic dichotomy",
+        "cache invalidation", "garbage collection", "tcp handshake", "lens aperture", "yield curve",
+        "latent space", "embedding layers", "cross entropy",
+    ],
+    "queries": [
+        "taxes", "backpropagation", "gravity", "sourdough", "machine learning",
+        "climate change", "compound growth", "pizza dough", "black holes", "neural networks",
+        "stock market", "guitar chords", "marathon pacing", "world war one", "kubernetes",
+        "cryptocurrency", "solar panels", "blood pressure", "mortgage rates", "sleep hygiene",
+        "french revolution", "dna replication", "quantum computing", "kitchen knives", "color grading",
+        "public transport", "protein intake", "chess tactics", "prime numbers", "supply chains",
+        "jazz improvisation", "watercolor techniques", "tcp ip", "hash functions", "latency",
+        "electric cars", "coffee roasting", "birdsong", "tidal energy", "mental models",
+        "spaced repetition", "carbon emissions", "rock formation", "sushi rice", "nutrition labels",
+        "lens choice", "budget planning", "wine regions", "hip hop history", "string theory",
+        "vocal warmups", "bread proofing", "trail running", "lunar phases", "plate boundaries",
+        "3d modeling", "minimalist design", "stoic quotes",
+    ],
+}
+# fmt: on

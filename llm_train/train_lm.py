@@ -1,3 +1,19 @@
+"""Pre-train a small GPT-2 style language model from scratch on a text dataset.
+
+The script loads a Hugging Face dataset (default: ``corbt/all-recipes``),
+tokenizes it with the GPT-2 BPE tokenizer (tiktoken), and trains
+``gpt2.GPT2Model`` with AdamW on next-token prediction. Every
+``--eval_interval`` steps (and at the last step) it prints the estimated
+train/val loss and a 500-token text sample generated from the current model.
+
+
+
+Usage
+-----
+    python train_lm.py [options]
+
+"""
+
 import time
 import torch
 import argparse

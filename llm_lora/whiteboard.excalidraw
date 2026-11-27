@@ -279,11 +279,11 @@
       "index": "ae",
       "roundness": null,
       "seed": 857874686,
-      "version": 3947,
-      "versionNonce": 1465876990,
+      "version": 3957,
+      "versionNonce": 1564667443,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1763370835679,
+      "updated": 1795705194307,
       "link": null,
       "locked": false,
       "text": "Large language models sometimes guess when uncertain, producing plausible yet incorrect \nstatements instead of admitting uncertainty. Hallucinations persist due to the way most \nevaluations are graded—language models are optimized to be good test-takers, and guessing \nwhen uncertain improves test performance.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMitigation #1 - Finetune\n=> Use model interrogation to discover model's knowledge, and fine tune on a new training \ndataset with knowledge-based refusals in cases where the model doesn't know, i.e. train \nthe model to reconize when it doesn't know\n\nMitigation #2 - Tools & RAG\n=> LLMs do not respond to user queries until they refer to a specified set of documents.\n",
@@ -5587,6 +5587,51 @@
         "naturalWidth": 1050,
         "naturalHeight": 520
       }
+    },
+    {
+      "id": "-tzeTRhFygP_dLRgkJx-U",
+      "type": "line",
+      "x": -1067.6792762903956,
+      "y": -2420.0007695754457,
+      "width": 469.0909090909091,
+      "height": 0.9090909090909918,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 50,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2s",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 903322749,
+      "version": 94,
+      "versionNonce": 1784427987,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1795700742631,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          469.0909090909091,
+          0.9090909090909918
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
     }
   ],
   "appState": {
